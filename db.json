@@ -4,49 +4,73 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 69
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 86
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 122
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 70
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 8
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 7
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 5
+    },
+    {
+      "name": "Cat",
+      "image": "https://static01.nyt.com/images/2020/04/22/science/22VIRUS-PETCATS1/22VIRUS-PETCATS1-videoSixteenByNineJumbo1600.jpg",
+      "likes": 2,
+      "id": 40
+    },
+    {
+      "name": "Cat",
+      "image": "https://cdn.shopify.com/s/files/1/0053/5763/3609/products/UwU_Kitty_Cat_Plush_Pillow_Grey_Emoji_600x600.jpg?v=1594244014",
+      "likes": 3,
+      "id": 42
+    },
+    {
+      "name": "Clippy",
+      "image": "https://i.kym-cdn.com/entries/icons/mobile/000/001/180/5018904-clippy-black-tar-heroin-memes-png-image-transparent-png-free-clippy-transparent-820_502.jpg",
+      "likes": 5,
+      "id": 52
+    },
+    {
+      "name": "Alf",
+      "image": "https://cms.qz.com/wp-content/uploads/2018/08/alf-warner-bros-e1533220615626.jpg?quality=75&strip=all&w=1600&h=900&crop=1",
+      "likes": 2,
+      "id": 53
     }
   ]
 }
